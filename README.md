@@ -666,37 +666,32 @@ Add screenshots of the actual application here:
 
 ### 🏠 Home Page
 
-```text
+
 <img width="1361" height="660" alt="home page" src="https://github.com/user-attachments/assets/c3fa8981-420b-4aec-bc3e-62e1a08aa0fa" />
 
-```
 
 ### 🍽️ Restaurant / Menu
 
-```text
+
 <img width="1365" height="651" alt="hotels" src="https://github.com/user-attachments/assets/beae94f2-9783-4d3e-a2d9-3ba0c4dc99c5" />
 
-```
 
 ### 🍕 Food Items
 
-```text
+
 <img width="1366" height="653" alt="menu" src="https://github.com/user-attachments/assets/f609b3b0-6dbf-4b65-b3dd-5efe2e9ee102" />
 <img width="1366" height="768" alt="menu1" src="https://github.com/user-attachments/assets/2cab053d-c4a0-48d0-9b24-67c5e1f7fff7" />
 
 
-```
-
 ### 🛒 Cart
 
-```text
+
 <img width="1364" height="651" alt="cart" src="https://github.com/user-attachments/assets/dd9e8c9f-44f3-494a-95f6-3ea2d188d9ff" />
 
-```
 
 ### 📦 Orders
 
-```text
+
 <img width="1357" height="654" alt="ord sec" src="https://github.com/user-attachments/assets/74ec7f76-49f4-4ccd-9557-ef6f1cd11719" />
 
 <img width="1344" height="661" alt="ord inv" src="https://github.com/user-attachments/assets/8fd05924-9a4f-4145-82df-800af2a2191a" />
@@ -705,21 +700,18 @@ Add screenshots of the actual application here:
 
 
 
-```
 
 ### 🤖 AI Food Assistant
 
-```text
+
 <img width="1281" height="363" alt="ai summery" src="https://github.com/user-attachments/assets/30e62cce-b4bb-4da8-ac6e-5c4bfaaa7da4" />
 
-```
 
 ### 👤 User Profile
 
-```text
+
 <img width="1360" height="655" alt="profile" src="https://github.com/user-attachments/assets/7186d965-074e-4df9-8730-5a708b01ffb2" />
 
-```
 
 ---
 
